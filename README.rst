@@ -4,7 +4,7 @@ Benchmarking nearest neighbors
 This project contains some tools to benchmark various implementations of approximate nearest neighbor (ANN) search for different metrics. Visit
 http://sss.projects.itu.dk/ann-benchmarks to see the results of this benchmark.
 
-The predecessor can be found at https://github.com/erikbern/ann-benchmarks.
+**Note:** The main development of ann-benchmarks can be found at https://github.com/erikbern/ann-benchmarks. The version provided here is what has been used for the paper `ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms, M. Aumüller, E. Bernhardsson, A. Faithfull http://www.itu.dk/people/maau/additional/sisap2017-preprint.pdf`.
 
 Evaluated
 =========
